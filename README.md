@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm He 👋</h1>
 
-<!--
-**A2stedB/A2stedB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- future portfolio here -->
 
-Here are some ideas to get you started:
+There´s nothing here, yet
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=a2stedb&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2stedb&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ALK222&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+<details>
+  <summary>📃 My Resume</summary>
+
+## Education
+
+- 📖 **Game Development**\
+  🏛️ **Universidad Complutense de Madrid**
+
+## Experience
+Nothing, yet
+## Skills
+Chinese and cantonese
+
+<!-- Icons: https://github.com/tandpfun/skill-icons -->
+<p align="center"> <b>Programming languages(and other "programming" stuff) </b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=csharp&perline=4" />
+  </a>
+</p>
+
+<p align="center"> <b>Tools </b></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&perline=4" />
+  </a>
+</p>
+
+<p align="center"> <b>Operating systems</b></p>
+<!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+</details>

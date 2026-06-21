@@ -3,10 +3,6 @@
 <!-- future portfolio here -->
 
 There´s nothing here, yet
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=a2stedb&theme=dracula&include_all_commits=true&count_private=true&hide_title=true" alt="Commit Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2stedb&theme=dracula&hide=jupyter%20notebook&layout=compact" alt="Language Stats" />
-</p>
 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ALK222&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
